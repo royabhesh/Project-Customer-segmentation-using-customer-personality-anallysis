@@ -1,4 +1,4 @@
-# Project-Customer-segmentation-using-customer-personality-anallysis
+# Project-Customer-segmentation-using-customer-personality-analysis
 Perform clustering to segment customers based on their attributes, which helps the business tailor its products and marketing strategies to the needs of different customer groups.
 
 Here's a concise overview for the Customer Personality Analysis project:
